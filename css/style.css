@@ -59,9 +59,3 @@ h4 {
 .large {
   width: 303%;
 }
-
-.small, .med, .large {
-  border-style: solid;
-  border: 5px;
-  box-sizing: border-box;
-}

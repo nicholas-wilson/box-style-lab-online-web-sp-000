@@ -60,7 +60,7 @@ h4 {
   width: 303%;
 }
 
-img {
+.column img {
   border-style: solid;
   border: 1px;
   box-sizing: border-box;
